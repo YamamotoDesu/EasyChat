@@ -2,6 +2,8 @@
 
 ## [1 Project Setup | Chat application | Android Studio](https://www.youtube.com/watch?v=O4SQlpPZEdo)
 
+<img width="300" alt="スクリーンショット 2023-03-27 11 34 44" src="https://user-images.githubusercontent.com/47273077/227826890-28974840-51f3-40ce-b57c-0783a866341f.png">
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
