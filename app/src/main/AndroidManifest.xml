@@ -13,6 +13,20 @@
         android:theme="@style/Theme.EasyChat"
         tools:targetApi="33">
         <activity
+            android:name=".LoginUsernameActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".LoginOtpActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".LoginPhoneNumberActivity"
             android:exported="false">
             <meta-data
