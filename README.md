@@ -524,6 +524,9 @@ activity_login_username.xml
 
 ## [4 Login with Phone number | Chat application | Android Studio](https://www.youtube.com/watch?v=ZRTXylK-tzE)
 
+<img width="300" alt="スクリーンショット 2023-03-31 21 51 58" src="https://github.com/YamamotoDesu/EasyChat/blob/main/easychat.gif">
+
+
 LoginPhoneNumberActivity.kt
 ```kt
 public class LoginPhoneNumberActivity extends AppCompatActivity {
